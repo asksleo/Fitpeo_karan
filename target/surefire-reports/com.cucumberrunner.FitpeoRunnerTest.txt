@@ -1,0 +1,26 @@
+-------------------------------------------------------------------------------
+Test set: com.cucumberrunner.FitpeoRunnerTest
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 1, Skipped: 0, Time elapsed: 1.701 s <<< FAILURE! -- in com.cucumberrunner.FitpeoRunnerTest
+Testing slider section in Revenue Calculator Page.Validate the  Revenue Calculator Page -- Time elapsed: 0.181 s <<< ERROR!
+io.cucumber.junit.UndefinedStepException: 
+The step 'User is on Home Page of Fitpeo' and 2 other step(s) are undefined.
+You can implement these steps using the snippet(s) below:
+
+@Given("User is on Home Page of Fitpeo")
+public void user_is_on_home_page_of_fitpeo() {
+    // Write code here that turns the phrase above into concrete actions
+    throw new io.cucumber.java.PendingException();
+}
+@When("User click on Revenue Calculator Menu button")
+public void user_click_on_revenue_calculator_menu_button() {
+    // Write code here that turns the phrase above into concrete actions
+    throw new io.cucumber.java.PendingException();
+}
+@Then("User lands on Revenue-Calculator page")
+public void user_lands_on_revenue_calculator_page() {
+    // Write code here that turns the phrase above into concrete actions
+    throw new io.cucumber.java.PendingException();
+}
+
+

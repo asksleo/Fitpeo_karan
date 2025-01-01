@@ -1,0 +1,7 @@
+com\cucumberStepDefinition\pages\ValidateRevenuePageSlideBar.class
+com\fitpeo\ApplicationSettings.class
+com\cucumberStepDefinition\pages\ValidateRevenuePageTextField.class
+com\fitpeo\BrowserSession.class
+com\cucumberStepDefinition\pages\ValidateRevenueCalculatorPage.class
+com\fitpeo\StaticTestSession.class
+com\cucumberrunner\FitpeoRunnerTest.class
